@@ -2,7 +2,7 @@ build:
   version: '1.0'
 
 card:
-  message: "Welcome to EazyBank card related production APIs "
+  message: "Welcome to EazyBank card related production v1 APIs "
   contactDetails:
     name: "Dimuth Perera - Devops"
     email: "{cipher}d207fcb1a4ee1f16d24f72c507fb0c7c0a63393759a33ad91d12bc691631256bc7c878ee5728b125431ee3a5591cc43b"
