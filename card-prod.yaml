@@ -5,7 +5,7 @@ card:
   message: "Welcome to EazyBank card related production APIs "
   contactDetails:
     name: "Dimuth Perera - Devops"
-    email: "dimuth@eazybank.com"
+    email: "{cipher}d207fcb1a4ee1f16d24f72c507fb0c7c0a63393759a33ad91d12bc691631256bc7c878ee5728b125431ee3a5591cc43b"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
